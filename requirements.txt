@@ -1,0 +1,7 @@
+autopep8==1.5.6
+et-xmlfile==1.0.1
+openpyxl==3.0.7
+pycodestyle==2.7.0
+selenium==3.141.0
+toml==0.10.2
+urllib3==1.26.4
